@@ -3,6 +3,8 @@ IROS2025 Submit
 
 2025.03.12
 
+![introduction](introduction.png)
+
 We are in the process of removing sensitive information from the code, and we will update it in about two weeks. The current parameter settings are:
 
 maximum velocity vm = 2.5 m/s, ωm = 1.5 rad/s
