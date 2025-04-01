@@ -30,6 +30,8 @@ The following GIF file demonstrates the running effect of the simulation (the ar
 
 ![Simulation Demo](demo.gif)
 
+![Simulation video](sim/photo/agents_animation.avi)
+
 ### Running the Simulation
 
 2025.04.01
