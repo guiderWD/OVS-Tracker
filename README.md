@@ -30,7 +30,7 @@ The following GIF file demonstrates the running effect of the simulation (the ar
 
 ![Simulation Demo](demo.gif)
 
-![Simulation video](sim/photo/fix_video.mp4)
+![Simulation video](sim/photo/fix_video.gif)
 
 ### Running the Simulation
 
