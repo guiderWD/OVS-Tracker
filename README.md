@@ -41,5 +41,5 @@ The following GIF file demonstrates the running effect of the simulation (the ar
    python3 demo.py
    ```
 3. **View the Output**
-   - After the simulation is completed, the output will be saved in the `sim/map/photo` directory. You can view the generated images there.
+   - After the simulation is completed, the output will be saved in the `sim/photo/10agent` directory. You can view the generated images there.
 
